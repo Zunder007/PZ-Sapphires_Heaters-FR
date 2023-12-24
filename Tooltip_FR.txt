@@ -1,0 +1,9 @@
+Tooltip_FR = {
+    Tooltip_SmallHeater = "Petit radiateur alimenté par des batteries de voiture.",
+    Tooltip_OutdoorHeater = "Radiateur d'extérieur alimenté par des batteries de voiture.",
+    Tooltip_ElectricHeater = "Radiateur électrique alimenté par des générateurs.",
+    Tooltip_HeaterCircuit = "Un composant utilisé dans les appareils de chauffage.",
+    Tooltip_ElectriciansIssue1 = "Apprend à fabriquer des petits radiateurs",
+    Tooltip_ElectriciansIssue2 = "Apprend à fabriquer des radiateurs d'extérieurs",
+    Tooltip_ElectriciansIssue3 = "Apprend à fabriquer des radiateurs électriques",
+}
