@@ -1,0 +1,9 @@
+ItemName_FR = {
+	ItemName_SAPPHEATER.ElectricHeater = "Radiateur électrique",
+	ItemName_SAPPHEATER.HeaterCircuit = "Circuit de chauffage",
+	ItemName_SAPPHEATER.HeaterMag1 = "Magazine des électriciens #1 - Les petits radiateurs",
+	ItemName_SAPPHEATER.HeaterMag2 = "Magazine des électriciens #2 - Les radiateurs d'extérieurs",
+	ItemName_SAPPHEATER.HeaterMag3 = "Magazine des électriciens #3 - Les radiateurs électriques",
+	ItemName_SAPPHEATER.OutdoorHeater = "Radiateur d'extérieur portatif",
+	ItemName_SAPPHEATER.SmallHeater = "Petit radiateur",
+}
