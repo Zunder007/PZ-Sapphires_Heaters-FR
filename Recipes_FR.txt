@@ -1,0 +1,3 @@
+Recipes_FR = {
+    Recipe_Insert_Battery_into_Heater = "Insérer la batterie dans le radiateur",
+}
