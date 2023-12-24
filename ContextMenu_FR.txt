@@ -1,0 +1,3 @@
+ContextMenu_FR = {
+    ContextMenu_Insert_Battery = "Insérer la batterie",
+}
