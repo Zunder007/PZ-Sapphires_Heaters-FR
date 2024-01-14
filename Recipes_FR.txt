@@ -1,3 +1,8 @@
 Recipes_FR = {
+    Recipe_Insert_Battery_into_Small_Heater = "Insérer la batterie dans le petit radiateur",
+    Recipe_Craft_Small_Heater = "Fabriquer un Petit radiateur",
+    Recipe_Insert_Battery_into_Portable_Outdoor_Heater = "Insérer la batterie dans le radiateur d'extérieur portatif",
+    Recipe_Craft_Portable_Outdoor_Heater = "Fabriquer un Radiateur d'extérieur portatif",
+    Recipe_Craft_Electric_Heater = "Fabriquer un Radiateur électrique",
     Recipe_Insert_Battery_into_Heater = "Insérer la batterie dans le radiateur",
 }
